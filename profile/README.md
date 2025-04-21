@@ -10,3 +10,25 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+- algotithm
+- data-structure
+- web
+  - html
+  - css
+  - js
+  - jquery
+  - bootstrap
+- node
+  - vue
+  - react
+- php
+- composer
+  - laravel
+  - lumen
+- python
+- pip
+- ruby
+  - jekyll
+- cheatsheet
+- roadmap
